@@ -6,3 +6,4 @@ Drug repositioning is the process of identifying new indications for known drugs
 The related code is presented in src folder and the data is presented under data folder. The code is written in Java and have no other dependency. You can run the code easily by running MainDrugRec.java file under src/main folder.
 
 Please cite our academical paper whenever you use whole or a part of the code or the data.
+* Ozsoy, Makbule Guclin, et al. "Realizing drug repositioning by adapting a recommendation system to handle the process." BMC bioinformatics 19.1 (2018): 136.
